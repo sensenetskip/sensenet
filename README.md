@@ -1,0 +1,2 @@
+# sensenet
+python sensenet.py
